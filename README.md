@@ -2,7 +2,7 @@
 =======================================================================
   AAYUSH BHATTI - GITHUB PROFILE README
   THEME: CYBERPUNK / NEON BLUE & PURPLE
-  BRAND: AAYUSH TRONICS
+  BRAND: Aayushtronics
 =======================================================================
 -->
 
@@ -32,7 +32,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Location-India-00C2FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0D1117" alt="India" />
     <img src="https://img.shields.io/badge/Role-ECE_Student-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0D1117" alt="ECE Student" />
-    <img src="https://img.shields.io/badge/Brand-Aayush_Tronics-00FFAA?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Aayush Tronics" />
+    <img src="https://img.shields.io/badge/Brand-Aayush_Tronics-00FFAA?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Aayushtronics" />
   </p>
 
   <!-- ===== RANDOM DEVELOPER QUOTE ===== -->
@@ -73,14 +73,14 @@
 <hr style="border: 1px solid #8A2BE2;">
 <br>
 
-<!-- ===== AAYUSH TRONICS (BRAND) SECTION ===== -->
+<!-- ===== Aayushtronics (BRAND) SECTION ===== -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" alt="Gears" /> 
-    Aayush Tronics: The Engineering Brand
+    Aayushtronics: The Engineering Brand
   </h2>
   <p>
-    <img src="https://img.shields.io/badge/Initiative-Aayush_Tronics-00C2FF?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" alt="Aayush Tronics Badge" />
+    <img src="https://img.shields.io/badge/Initiative-Aayush_Tronics-00C2FF?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" alt="Aayushtronics Badge" />
   </p>
   <i>"Empowering the future of hardware, one circuit at a time."</i>
 </div>
@@ -92,7 +92,7 @@
     <td width="50%" valign="top">
       <h3>👁️ Vision & 🎯 Mission</h3>
       <p><b>Vision:</b> To create a robust ecosystem where embedded systems and AI converge to solve complex everyday problems seamlessly.</p>
-      <p><b>Mission:</b> Developing high-quality, scalable, and open-source hardware/software architectures. Aayush Tronics is my personal laboratory for prototyping the future.</p>
+      <p><b>Mission:</b> Developing high-quality, scalable, and open-source hardware/software architectures. Aayushtronics is my personal laboratory for prototyping the future.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🔍 Areas of Focus & 🔓 Open Source</h3>
@@ -226,7 +226,7 @@
         <li>🟢 <b>IoT & Automation:</b> Building smart home hubs and industrial automation scripts.</li>
         <li>🟡 <b>Robotics:</b> ROS (Robot Operating System) integration and kinematics.</li>
         <li>🟡 <b>AI:</b> Implementing edge AI on microcontrollers (TinyML).</li>
-        <li>🔴 <b>Startup Building:</b> Scaling <i>Aayush Tronics</i> into a consumer hardware entity.</li>
+        <li>🔴 <b>Startup Building:</b> Scaling <i>Aayushtronics</i> into a consumer hardware entity.</li>
         <li>🔴 <b>Hardware Products:</b> Launching my first proprietary self-driving robot car kit.</li>
       </ul>
     </td>
