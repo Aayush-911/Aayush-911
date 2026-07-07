@@ -20,157 +20,66 @@
 
 ---
 
-<!-- ===== ABOUT SECTION ===== -->
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h2>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-        👨‍💻 System Profile
-      </h2>
-      <blockquote>
-        <p>🎓 <b>First-year ECE Student</b> at Dronacharya College of Engineering.</p>
-        <p>💡 Passionate about <b>Embedded Systems, Robotics, AI</b>, and modern hardware architecture.</p>
-        <p>🏆 Active hackathon team leader (<b>Code & Chaos, Vihaan 9.0</b>).</p>
-        <p>📚 Certified in <b>Communication & Presentation Skills</b> (TCS iON) and diving into NPTEL Python modules.</p>
-        <p>🚀 <b>Directive:</b> Build AI-powered hardware products and launch a tech startup.</p>
-      </blockquote>
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> 👨‍💻 System Profile
 
-      <br>
-
-      <h3>⚡ Platform: Aayushtronics</h3>
-      <blockquote>
-        <i>"Empowering the future of hardware, one circuit at a time."</i>
-      </blockquote>
-      <p>
-        <b>Aayushtronics</b> is my dedicated technical initiative focused on developing, documenting, and sharing advanced microcontroller architectures (<b>ESP32 & Arduino Uno</b>) through high-quality, flat-design schematics and code.
-      </p>
-      <img src="https://img.shields.io/badge/Project-Aayushtronics-00C2FF?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" />
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aayush-911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=🚀%20Aayush's%20Dev%20Stats" width="100%" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" width="100%" />
-    </td>
-  </tr>
-</table>
+> 🎓 **First-year ECE Student** at Dronacharya College of Engineering.
+> 💡 Passionate about **Embedded Systems, Robotics, AI**, and modern hardware architecture.
+> 🏆 Active hackathon team leader (**Code & Chaos, Vihaan 9.0**).
+> 📚 Certified in **Communication & Presentation Skills** (TCS iON) and diving into NPTEL Python modules.
+> 🚀 **Directive:** Build AI-powered hardware products and launch a tech startup.
 
 <br>
 
-<!-- ===== TECH STACK ===== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" /> 
-  Tech Stack & Arsenal 
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" />
-</h2>
+### ⚡ Platform: Aayushtronics
 
-<table align="center" width="100%">
-  <tr>
-    <th width="33%" align="center">💻 Software & Logic</th>
-    <th width="33%" align="center">🔌 Microcontrollers & Hardware</th>
-    <th width="34%" align="center">🛠️ Dev & Design Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <br>
-      <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" theme="dark" /><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117" />
-    </td>
-    <td align="center">
-      <br>
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" theme="dark" /><br><br>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/ATmega328P-00C2FF?style=for-the-badge&labelColor=0D1117" />
-    </td>
-    <td align="center">
-      <br>
-      <img src="https://skillicons.dev/icons?i=vscode,git,github" theme="dark" /><br><br>
-      <img src="https://img.shields.io/badge/CoppeliaSim-3D-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/Circuit_Design-FF8C00?style=for-the-badge&labelColor=0D1117" />
-    </td>
-  </tr>
-</table>
+> *"Empowering the future of hardware, one circuit at a time."*
 
-<br>
+**Aayushtronics** is my dedicated technical initiative focused on developing, documenting, and sharing advanced microcontroller architectures (**ESP32 & Arduino Uno**) through high-quality, flat-design schematics and code.
 
-<!-- ===== CURRENT & FUTURE ===== -->
-<h2 align="center">
-  🎯 Deployment Roadmap
-  <img src="https://media.giphy.com/media/3oKIPnA2MCKkY0kE5O/giphy.gif" width="30" />
-</h2>
+<img src="https://img.shields.io/badge/Project-Aayushtronics-00C2FF?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" />
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="border-right: 2px solid #00C2FF; padding-right: 20px;">
-      <h3 align="center">📌 Current Operations</h3>
-      <ul>
-        <li>✅ Building <b>VoltPark</b>: A Smart Parking & EV Wireless Charging IoT system using ESP32.</li>
-        <li>✅ Prototyping audio amplifier circuits (BC548, breadboards).</li>
-        <li>✅ Designing flat-UI branding and neon-cyber web elements for projects.</li>
-        <li>✅ Expanding the <b>Aayushtronics</b> ecosystem.</li>
-        <li>✅ Grinding algorithms on LeetCode.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/System_Status-Online-00FFAA?style=for-the-badge&labelColor=0D1117" />
-      </div>
-    </td>
-    <td width="50%" valign="top" style="padding-left: 20px;">
-      <h3 align="center">🔮 Future Objectives</h3>
-      <ul>
-        <li>🤖 <b>Smart Autonomous Robots</b></li>
-        <li>📡 <b>IoT Smart City & Home Systems</b></li>
-        <li>🚗 <b>Self-Driving Robot Car</b></li>
-        <li>🧠 <b>AI + Embedded Systems Integration</b></li>
-        <li>📱 <b>Custom Hardware Consumer Products</b></li>
-      </ul>
-      <br>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Next_Phase-Initiating-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-      </div>
-    </td>
-  </tr>
-</table>
+---
 
-<br>
-
-<!-- ===== STATS & ACTIVITY ===== -->
-<h2 align="center">
-  📊 Analytics & Commits
-  <img src="https://media.giphy.com/media/cj87CxfRtrU7u/giphy.gif" width="30" />
-</h2>
+### 📊 Analytics & Commits
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-911&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=🚀%20Aayush's%20Dev%20Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-911&theme=tokyonight&hide_border=true&background=0D1117" width="97%" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/Aayush-911">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush-911&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=🔥%20Contribution%20Graph" alt="Aayush's github activity graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush-911&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=🔥%20Contribution%20Graph" alt="Aayush's github activity graph" width="97%" />
   </a>
 </div>
 
-<br>
+---
 
-<!-- ===== SNAKE ANIMATION ===== -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aayush-911/Aayush-911/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aayush-911/Aayush-911/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Aayush-911/Aayush-911/blob/output/github-contribution-grid-snake-dark.svg" width="90%" />
-  </picture>
-</div>
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" /> Tech Stack & Arsenal 
 
-<br>
+| 💻 Software & Logic | 🔌 Microcontrollers & Hardware | 🛠️ Dev & Design Tools |
+| :---: | :---: | :---: |
+| <br><img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" theme="dark" /><br><br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" /><br><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117" /><br> | <br><img src="https://skillicons.dev/icons?i=arduino,raspberrypi" theme="dark" /><br><br><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" /><br><img src="https://img.shields.io/badge/ATmega328P-00C2FF?style=for-the-badge&labelColor=0D1117" /><br> | <br><img src="https://skillicons.dev/icons?i=vscode,git,github" theme="dark" /><br><br><img src="https://img.shields.io/badge/CoppeliaSim-3D-8A2BE2?style=for-the-badge&labelColor=0D1117" /><br><img src="https://img.shields.io/badge/Circuit_Design-FF8C00?style=for-the-badge&labelColor=0D1117" /><br> |
 
-<!-- ===== CONNECT ===== -->
-<h2 align="center">
-  🌎 Establish Connection
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" />
-</h2>
+---
+
+### 🎯 Deployment Roadmap
+
+| 📌 Current Operations | 🔮 Future Objectives |
+| :--- | :--- |
+| ✅ Building **VoltPark**: A Smart Parking & EV Wireless Charging IoT system using ESP32.<br>✅ Prototyping audio amplifier circuits (BC548, breadboards).<br>✅ Designing flat-UI branding and neon-cyber web elements.<br>✅ Expanding the **Aayushtronics** ecosystem.<br>✅ Grinding algorithms on LeetCode.<br><br><div align="center"><img src="https://img.shields.io/badge/System_Status-Online-00FFAA?style=for-the-badge&labelColor=0D1117" /></div> | 🤖 **Smart Autonomous Robots**<br>📡 **IoT Smart City & Home Systems**<br>🚗 **Self-Driving Robot Car**<br>🧠 **AI + Embedded Systems Integration**<br>📱 **Custom Hardware Consumer Products**<br><br><br><div align="center"><img src="https://img.shields.io/badge/Next_Phase-Initiating-8A2BE2?style=for-the-badge&labelColor=0D1117" /></div> |
+
+---
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /> Establish Connection
 
 <div align="center">
 
