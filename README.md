@@ -24,13 +24,6 @@
 Hi, I'm Aayush Bhatti, a passionate Electronics & Communication Engineering (ECE) student who enjoys building technology that solves real-world problems. I'm constantly learning, experimenting, and improving my skills in software development, embedded systems, and artificial intelligence.
 <br>
 
-### ⚡ Platform: Aayushtronics
-
-> *"Empowering the future of hardware, one circuit at a time."*
-
-**Aayushtronics** is my dedicated technical initiative focused on developing, documenting, and sharing advanced microcontroller architectures (**ESP32 & Arduino Uno**) through high-quality, flat-design schematics and code.
-
-<img src="https://img.shields.io/badge/Project-Aayushtronics-00C2FF?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" />
 
 ---
 
