@@ -6,43 +6,48 @@
 =======================================================================
 -->
 
+<!-- ===== HEADER BANNER ===== -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C2FF,100:8A2BE2&amp;height=250&amp;section=header&amp;text=Aayush%20Bhatti&amp;fontSize=70&amp;fontAlignY=35&amp;desc=Electronics%20%26%20Communication%20Engineering%20Student&amp;descAlignY=55&amp;descAlign=50&amp;fontColor=FFFFFF&amp;animation=fadeIn" alt="Header Banner" width="100%" />
+</div>
 
-  <!-- ===== CONTACT & IDENTITY HEADER ===== -->
-  <h1>AAYUSH BHATTI</h1>
-  <p>
-    <a href="mailto:bhattiaayush1109@gmail.com">
-      <img src="https://img.shields.io/badge/Email-bhattiaayush1109%40gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/aayush-bhatti-a65801367/">
-      <img src="https://img.shields.io/badge/LinkedIn-Aayush_Bhatti-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Aayush-911">
-      <img src="https://img.shields.io/badge/GitHub-Aayush--911-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF8C00?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Portfolio" />
-    </a>
-  </p>
+<!-- ===== QUICK CONTACT & LINKS ===== -->
+<div align="center">
+  <a href="mailto:bhattiaayush1109@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhattiaayush1109%40gmail.com-00C2FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/aayush-bhatti-a65801367/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aayush_Bhatti-8A2BE2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Aayush-911">
+    <img src="https://img.shields.io/badge/GitHub-Aayush--911-00FFAA?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D1117" alt="GitHub" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF8C00?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=0D1117" alt="Portfolio" />
+  </a>
+</div>
 
-  <!-- ===== HEADER BANNER ===== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=250&section=header&text=Welcome%20To%20My%20System&fontSize=60&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=55&descAlign=50&fontColor=FFFFFF&animation=fadeIn" alt="Header Banner" width="100%" />
+<br>
 
-  <!-- ===== TYPING ANIMATION ===== -->
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+ECE+Student+%7C+Embedded+Systems+Developer;🔧+Passionate+About+Robotics+%26+IoT;⚡+Founder+of+Aayush+Tronics;💡+Building+Projects+That+Solve+Real+Problems;🌟+Dream.+Build.+Learn.+Repeat." alt="Typing SVG" />
-  <br><br>
+<!-- ===== TYPING ANIMATION ===== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=24&amp;pause=1000&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=🚀+ECE+Student+%7C+Embedded+Systems+Developer;🔧+Passionate+About+Robotics+%26+IoT;⚡+Founder+of+Aayush+Tronics;💡+Building+Projects+That+Solve+Real+Problems;🌟+Dream.+Build.+Learn.+Repeat." alt="Typing SVG" />
+</div>
 
-  <!-- ===== PROFESSIONAL BADGES ===== -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Location-India-00C2FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0D1117" alt="India" />
-    <img src="https://img.shields.io/badge/Role-ECE_Student-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0D1117" alt="ECE Student" />
-    <img src="https://img.shields.io/badge/Brand-Aayush_Tronics-00FFAA?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Aayush Tronics" />
-  </p>
+<br>
 
-  <!-- ===== RANDOM DEVELOPER QUOTE ===== -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-  
+<!-- ===== PROFESSIONAL BADGES ===== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-India-00C2FF?style=for-the-badge&amp;logo=google-maps&amp;logoColor=white&amp;labelColor=0D1117" alt="India" />
+  <img src="https://img.shields.io/badge/Role-ECE_Student-8A2BE2?style=for-the-badge&amp;logo=gitbook&amp;logoColor=white&amp;labelColor=0D1117" alt="ECE Student" />
+  <img src="https://img.shields.io/badge/Brand-Aayush_Tronics-00FFAA?style=for-the-badge&amp;logo=rocket&amp;logoColor=white&amp;labelColor=0D1117" alt="Aayush Tronics" />
+</div>
+
+<br>
+
+<!-- ===== RANDOM DEVELOPER QUOTE ===== -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Random Quote" />
 </div>
 
 <br>
@@ -69,6 +74,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
+      <!-- Animated GIF placeholder for Cyberpunk aesthetic -->
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" style="border-radius: 10px; border: 2px solid #8A2BE2;" alt="Cyberpunk aesthetic GIF" />
     </td>
   </tr>
@@ -85,7 +91,7 @@
     Aayush Tronics: The Engineering Brand
   </h2>
   <p>
-    <img src="https://img.shields.io/badge/Initiative-Aayush_Tronics-00C2FF?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117" alt="Aayush Tronics Badge" />
+    <img src="https://img.shields.io/badge/Initiative-Aayush_Tronics-00C2FF?style=for-the-badge&amp;logo=espressif&amp;logoColor=white&amp;labelColor=0D1117" alt="Aayush Tronics Badge" />
   </p>
   <i>"Empowering the future of hardware, one circuit at a time."</i>
 </div>
@@ -133,21 +139,21 @@
       <h3>🔌 Embedded</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" theme="dark" /><br><br>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white&labelColor=0D1117" /><br><br>
-      <img src="https://img.shields.io/badge/ATmega-00C2FF?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&amp;logo=espressif&amp;logoColor=white&amp;labelColor=0D1117" /><br><br>
+      <img src="https://img.shields.io/badge/ATmega-00C2FF?style=flat-square&amp;labelColor=0D1117" />
     </td>
     <td width="25%">
       <h3>⚙️ Hardware</h3>
       <br>
-      <img src="https://img.shields.io/badge/Circuit_Design-FF8C00?style=flat-square&labelColor=0D1117" /><br><br>
-      <img src="https://img.shields.io/badge/Sensors-00FFAA?style=flat-square&labelColor=0D1117" /><br><br>
-      <img src="https://img.shields.io/badge/Actuators-8A2BE2?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Circuit_Design-FF8C00?style=flat-square&amp;labelColor=0D1117" /><br><br>
+      <img src="https://img.shields.io/badge/Sensors-00FFAA?style=flat-square&amp;labelColor=0D1117" /><br><br>
+      <img src="https://img.shields.io/badge/Actuators-8A2BE2?style=flat-square&amp;labelColor=0D1117" />
     </td>
     <td width="25%">
       <h3>🧠 AI & ML</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" theme="dark" /><br><br>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white&amp;labelColor=0D1117" />
     </td>
   </tr>
   <!-- ROW 2 -->
@@ -192,7 +198,7 @@
         <li>ESP32 core architecture.</li>
         <li>Wireless power transfer concepts for EVs.</li>
       </ul>
-      <p align="center"><img src="https://img.shields.io/badge/Status-In_Progress-00C2FF?style=flat-square&labelColor=0D1117" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Status-In_Progress-00C2FF?style=flat-square&amp;labelColor=0D1117" /></p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">⚡ Arduino / ESP32</h3>
@@ -202,7 +208,7 @@
         <li>Sensor data aggregation & dashboards.</li>
         <li>Real-time automation protocols.</li>
       </ul>
-      <p align="center"><img src="https://img.shields.io/badge/Status-Active-00FFAA?style=flat-square&labelColor=0D1117" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Status-Active-00FFAA?style=flat-square&amp;labelColor=0D1117" /></p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🤖 Robotics & AI</h3>
@@ -212,7 +218,7 @@
         <li>Machine vision integration.</li>
         <li>Simulation testing via CoppeliaSim.</li>
       </ul>
-      <p align="center"><img src="https://img.shields.io/badge/Status-Experimenting-8A2BE2?style=flat-square&labelColor=0D1117" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Status-Experimenting-8A2BE2?style=flat-square&amp;labelColor=0D1117" /></p>
     </td>
   </tr>
 </table>
@@ -255,11 +261,12 @@
 <!-- ===== FEATURED REPOSITORIES (PLACEHOLDERS) ===== -->
 <h2 align="center">📂 Featured Repositories</h2>
 <div align="center">
+  <!-- Replace 'your-repo-name' with actual repositories once public -->
   <a href="https://github.com/Aayush-911">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-911&repo=VoltPark-Smart-Parking&theme=tokyonight&bg_color=0D1117&hide_border=true" width="45%" alt="Repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-911&amp;repo=VoltPark-Smart-Parking&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true" width="45%" alt="Repo 1" />
   </a>
   <a href="https://github.com/Aayush-911">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-911&repo=Aayush-Tronics-ESP32&theme=tokyonight&bg_color=0D1117&hide_border=true" width="45%" alt="Repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-911&amp;repo=Aayush-Tronics-ESP32&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true" width="45%" alt="Repo 2" />
   </a>
 </div>
 
@@ -270,13 +277,13 @@
 <!-- ===== ACHIEVEMENTS ===== -->
 <h2 align="center">🏆 Achievements & Badges</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-911&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-911&amp;theme=tokyonight&amp;margin-w=15&amp;margin-h=15&amp;no-frame=true&amp;column=6&amp;no-bg=true" alt="GitHub Trophies" />
 </div>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Hackathon-Team_Lead-00FFAA?style=for-the-badge&logo=devpost&logoColor=white&labelColor=0D1117" alt="Hackathon Lead" />
-  <img src="https://img.shields.io/badge/Certifications-TCS_iON-00C2FF?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0D1117" alt="Certifications" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Hackathon-Team_Lead-00FFAA?style=for-the-badge&amp;logo=devpost&amp;logoColor=white&amp;labelColor=0D1117" alt="Hackathon Lead" />
+  <img src="https://img.shields.io/badge/Certifications-TCS_iON-00C2FF?style=for-the-badge&amp;logo=udemy&amp;logoColor=white&amp;labelColor=0D1117" alt="Certifications" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-8A2BE2?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D1117" alt="Open Source" />
 </p>
 
 <br>
@@ -292,22 +299,22 @@
 
 <div align="center">
   <!-- GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush-911&theme=tokyonight" width="97%" alt="Profile Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush-911&amp;theme=tokyonight" width="97%" alt="Profile Summary Card" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=🚀%20Aayush's%20Dev%20Stats&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-911&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;custom_title=🚀%20Aayush's%20Dev%20Stats&amp;count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-911&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;langs_count=6" width="48%" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-911&theme=tokyonight&hide_border=true&background=0D1117" width="97%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-911&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" width="97%" alt="Streak Stats" />
 </div>
 
 <br>
@@ -315,7 +322,7 @@
 <div align="center">
   <!-- Activity Graph -->
   <a href="https://github.com/Aayush-911">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush-911&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=🔥%20Contribution%20Graph" alt="Activity Graph" width="97%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush-911&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;area=true&amp;custom_title=🔥%20Contribution%20Graph" alt="Activity Graph" width="97%" />
   </a>
 </div>
 
@@ -347,22 +354,22 @@
   <p>Feel free to reach out for collaborations, hackathons, or just to talk about tech!</p>
 
   <a href="mailto:bhattiaayush1109@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/aayush-bhatti-a65801367/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Aayush-911">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D1117" alt="GitHub" />
   </a>
   <a href="YOUR_YOUTUBE_LINK_HERE">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=0D1117" alt="YouTube" />
   </a>
   <a href="YOUR_INSTAGRAM_LINK_HERE">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=0D1117" alt="Instagram" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-00C2FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-00C2FF?style=for-the-badge&amp;labelColor=0D1117" alt="Portfolio" />
   </a>
 </div>
 
@@ -372,13 +379,13 @@
 <div align="center">
   <!-- Visitor Badge -->
   <a href="https://github.com/Aayush-911">
-    <img src="https://komarev.com/ghpvc/?username=Aayush-911&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Aayush-911&amp;label=PROFILE+VIEWS&amp;color=00C2FF&amp;style=for-the-badge&amp;labelColor=0D1117" alt="Profile Views" />
   </a>
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/Open_To-Collaborations-00FFAA?style=for-the-badge&labelColor=0D1117" alt="Collaborations" />
-  <img src="https://img.shields.io/badge/Let's_Build-Something_Awesome-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Let's Build" />
+  <img src="https://img.shields.io/badge/Open_To-Collaborations-00FFAA?style=for-the-badge&amp;labelColor=0D1117" alt="Collaborations" />
+  <img src="https://img.shields.io/badge/Let's_Build-Something_Awesome-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" alt="Let's Build" />
 
   <br><br>
   <b>⭐ "Dream. Build. Learn. Repeat." ⭐</b>
@@ -386,5 +393,5 @@
 
 <!-- ===== FOOTER WAVE ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8A2BE2,100:00C2FF&amp;height=120&amp;section=footer" width="100%" alt="Footer Wave" />
 </div>
