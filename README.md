@@ -98,39 +98,18 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
-[![Aayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Aayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/Aayush-911)
 
 ---
 
 # 🌎 Connect with Me
 
-📧 Email: your-email@example.com
+📧 Email: your-bhattiaayush1109@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: (https://www.linkedin.com/in/aayush-bhatti-a65801367/)
 
 🌐 Portfolio: Coming Soon...
 
