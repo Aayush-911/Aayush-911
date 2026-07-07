@@ -187,7 +187,7 @@
         <li>ESP32 core architecture.</li>
         <li>Wireless power transfer concepts for EVs.</li>
       </ul>
-      <p align="center"><img src="https://img.shields.io/badge/Status-In_Progress-00C2FF?style=flat-square&labelColor=0D1117" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Status-experimental-00C2FF?style=flat-square&labelColor=0D1117" /></p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">⚡ Arduino / ESP32</h3>
