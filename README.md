@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=200&section=header&text=Hello%20World!%20I'm%20Aayush&fontSize=50&fontAlignY=35&desc=Embedded%20Systems%20%7C%20AI%20%7C%20Robotics&descAlignY=55&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=200&section=header&text=Hello%20World!%20I'm%20Aayush%20Bhatti&fontSize=45&fontAlignY=35&desc=Embedded%20Systems%20%7C%20AI%20%7C%20Robotics&descAlignY=55&descAlign=50" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -10,11 +10,24 @@
 
 ### 👨‍💻 About Me
 
-🎓 **First-year Electronics & Communication Engineering student** at [Your College Name]  
+🎓 **First-year Electronics & Communication Engineering student** at Dronacharya College of Engineering.  
 💡 Passionate about Embedded Systems, Robotics, AI, and modern hardware architecture.  
 🔧 I love building projects that bridge the gap between hardware and software.  
 📚 Currently diving deep into **Digital Electronics, Arduino, Python, C++, HTML, CSS, and Embedded Programming**.  
 🚀 **Goal:** To build innovative, AI-powered hardware products and launch my own tech startup.
+
+---
+
+### ⚡ Featured Project: Aayushtronics
+
+<div align="center">
+  
+  > *"Empowering the future of hardware, one circuit at a time."*
+  
+  **Aayushtronics** is my dedicated technical platform and brand where I focus on developing, documenting, and sharing advanced micro-controller projects, specifically utilizing **ESP32** and **Arduino Uno** architectures. 
+  
+  ![Aayushtronics](https://img.shields.io/badge/Project-Aayushtronics-00C2FF?style=for-the-badge&logo=espressif&logoColor=white)
+</div>
 
 ---
 
@@ -34,16 +47,16 @@
 
 ---
 
-### 🚀 Projects & Focus
+### 🚀 Ongoing Focus & Future Goals
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <b>📌 Currently Working On</b><br><br>
+      ✅ Expanding the <b>Aayushtronics</b> ecosystem.<br>
       ✅ Designing and simulating foundational electronic circuits.<br>
       ✅ Building basic IoT prototypes using ESP32.<br>
       ✅ Developing simple Python automation scripts.<br>
-      ✅ Exploring microcontrollers like ATmega328P.<br>
       ✅ Integrating basic sensors and actuators.<br>
     </td>
     <td width="50%" valign="top">
@@ -82,6 +95,8 @@
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattiaayush1109@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-bhatti-a65801367/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTA_LINK_HERE)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YT_LINK_HERE)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00C2FF?style=for-the-badge)](javascript:void(0))
   
 </div>
