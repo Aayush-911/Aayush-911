@@ -25,13 +25,8 @@
     </a>
   </p>
 
-  <!-- ===== HEADER BANNER ===== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=250&section=header&text=Welcome%20To%20My%20System&fontSize=60&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=55&descAlign=50&fontColor=FFFFFF&animation=fadeIn" alt="Header Banner" width="100%" />
-
-  <!-- ===== TYPING ANIMATION ===== -->
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+ECE+Student+%7C+Embedded+Systems+Developer;🔧+Passionate+About+Robotics+%26+IoT;⚡+Founder+of+Aayush+Tronics;💡+Building+Projects+That+Solve+Real+Problems;🌟+Dream.+Build.+Learn.+Repeat." alt="Typing SVG" />
-  <br><br>
+  
+  
 
   <!-- ===== PROFESSIONAL BADGES ===== -->
   <p align="center">
