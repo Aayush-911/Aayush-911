@@ -13,7 +13,7 @@
 🎓 **First-year Electronics & Communication Engineering student** at [Your College Name]  
 💡 Passionate about Embedded Systems, Robotics, AI, and modern hardware architecture.  
 🔧 I love building projects that bridge the gap between hardware and software.  
-📚 Currently diving deep into **Digital Electronics, Arduino, Python, C++, and Embedded Programming**.  
+📚 Currently diving deep into **Digital Electronics, Arduino, Python, C++, HTML, CSS, and Embedded Programming**.  
 🚀 **Goal:** To build innovative, AI-powered hardware products and launch my own tech startup.
 
 ---
@@ -27,7 +27,8 @@
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode) |
 | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![ATmega328P](https://img.shields.io/badge/ATmega328P-004A98?style=for-the-badge) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) |
-| | ![Electronics](https://img.shields.io/badge/Electronics-FF8C00?style=for-the-badge) | ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-3D-blue?style=for-the-badge) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Electronics](https://img.shields.io/badge/Electronics-FF8C00?style=for-the-badge) | ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-3D-blue?style=for-the-badge) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | | |
 
 </div>
 
