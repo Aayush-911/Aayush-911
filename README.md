@@ -296,17 +296,7 @@
 
 <br>
 
-<!-- ===== SNAKE ANIMATION ===== -->
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush-911/Aayush-911/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush-911/Aayush-911/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Aayush-911/Aayush-911/output/github-contribution-grid-snake-dark.svg" width="90%" />
-  </picture>
-  <br>
-  <sub><i>Note: The snake animation requires a GitHub Action setup in this repository to generate the SVG.</i></sub>
-</div>
+
 
 <br>
 <hr style="border: 1px solid #00C2FF;">
