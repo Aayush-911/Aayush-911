@@ -276,11 +276,7 @@
 
 <br>
 
-<div align="center">
-  <!-- Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=🚀%20Aayush's%20Dev%20Stats&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" width="48%" alt="Top Languages" />
-</div>
+
 
 <br>
 
