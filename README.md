@@ -21,13 +21,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> 👨‍💻 System Profile
-
-> 🎓 **First-year ECE Student** at Dronacharya College of Engineering.
-> 💡 Passionate about **Embedded Systems, Robotics, AI**, and modern hardware architecture.
-> 🏆 Active hackathon team leader (**Code & Chaos, Vihaan 9.0**).
-> 📚 Certified in **Communication & Presentation Skills** (TCS iON) and diving into NPTEL Python modules.
-> 🚀 **Directive:** Build AI-powered hardware products and launch a tech startup.
-
+Hi, I'm Aayush Bhatti, a passionate Electronics & Communication Engineering (ECE) student who enjoys building technology that solves real-world problems. I'm constantly learning, experimenting, and improving my skills in software development, embedded systems, and artificial intelligence.
 <br>
 
 ### ⚡ Platform: Aayushtronics
