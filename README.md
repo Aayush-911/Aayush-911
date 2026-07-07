@@ -247,26 +247,10 @@
 <hr style="border: 1px solid #8A2BE2;">
 <br>
 
-<!-- ===== FEATURED REPOSITORIES (PLACEHOLDERS) ===== -->
-<h2 align="center">📂 Featured Repositories</h2>
-<div align="center">
-  <a href="https://github.com/Aayush-911">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-911&repo=VoltPark-Smart-Parking&theme=tokyonight&bg_color=0D1117&hide_border=true" width="45%" alt="Repo 1" />
-  </a>
-  <a href="https://github.com/Aayush-911">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-911&repo=Aayush-Tronics-ESP32&theme=tokyonight&bg_color=0D1117&hide_border=true" width="45%" alt="Repo 2" />
-  </a>
-</div>
-
-<br>
-<hr style="border: 1px solid #00C2FF;">
-<br>
 
 <!-- ===== ACHIEVEMENTS ===== -->
 <h2 align="center">🏆 Achievements & Badges</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-911&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="GitHub Trophies" />
-</div>
+
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Hackathon-Team_Lead-00FFAA?style=for-the-badge&logo=devpost&logoColor=white&labelColor=0D1117" alt="Hackathon Lead" />
