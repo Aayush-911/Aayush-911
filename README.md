@@ -6,48 +6,43 @@
 =======================================================================
 -->
 
-<!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=250&section=header&text=Aayush%20Bhatti&fontSize=70&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=55&descAlign=50&fontColor=FFFFFF&animation=fadeIn" alt="Header Banner" width="100%" />
-</div>
 
-<!-- ===== QUICK CONTACT & LINKS ===== -->
-<div align="center">
-  <a href="mailto:bhattiaayush1109@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhattiaayush1109%40gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/aayush-bhatti-a65801367/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aayush_Bhatti-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Aayush-911">
-    <img src="https://img.shields.io/badge/GitHub-Aayush--911-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF8C00?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Portfolio" />
-  </a>
-</div>
+  <!-- ===== CONTACT & IDENTITY HEADER ===== -->
+  <h1>AAYUSH BHATTI</h1>
+  <p>
+    <a href="mailto:bhattiaayush1109@gmail.com">
+      <img src="https://img.shields.io/badge/Email-bhattiaayush1109%40gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/aayush-bhatti-a65801367/">
+      <img src="https://img.shields.io/badge/LinkedIn-Aayush_Bhatti-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Aayush-911">
+      <img src="https://img.shields.io/badge/GitHub-Aayush--911-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF8C00?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+    </a>
+  </p>
 
-<br>
+  <!-- ===== HEADER BANNER ===== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=250&section=header&text=Welcome%20To%20My%20System&fontSize=60&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=55&descAlign=50&fontColor=FFFFFF&animation=fadeIn" alt="Header Banner" width="100%" />
 
-<!-- ===== TYPING ANIMATION ===== -->
-<div align="center">
+  <!-- ===== TYPING ANIMATION ===== -->
+  <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+ECE+Student+%7C+Embedded+Systems+Developer;🔧+Passionate+About+Robotics+%26+IoT;⚡+Founder+of+Aayush+Tronics;💡+Building+Projects+That+Solve+Real+Problems;🌟+Dream.+Build.+Learn.+Repeat." alt="Typing SVG" />
-</div>
+  <br><br>
 
-<br>
+  <!-- ===== PROFESSIONAL BADGES ===== -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Location-India-00C2FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0D1117" alt="India" />
+    <img src="https://img.shields.io/badge/Role-ECE_Student-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0D1117" alt="ECE Student" />
+    <img src="https://img.shields.io/badge/Brand-Aayush_Tronics-00FFAA?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Aayush Tronics" />
+  </p>
 
-<!-- ===== PROFESSIONAL BADGES ===== -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-India-00C2FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0D1117" alt="India" />
-  <img src="https://img.shields.io/badge/Role-ECE_Student-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0D1117" alt="ECE Student" />
-  <img src="https://img.shields.io/badge/Brand-Aayush_Tronics-00FFAA?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Aayush Tronics" />
-</div>
-
-<br>
-
-<!-- ===== RANDOM DEVELOPER QUOTE ===== -->
-<div align="center">
+  <!-- ===== RANDOM DEVELOPER QUOTE ===== -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  
 </div>
 
 <br>
@@ -74,7 +69,6 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- Animated GIF placeholder for Cyberpunk aesthetic -->
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" style="border-radius: 10px; border: 2px solid #8A2BE2;" alt="Cyberpunk aesthetic GIF" />
     </td>
   </tr>
@@ -261,7 +255,6 @@
 <!-- ===== FEATURED REPOSITORIES (PLACEHOLDERS) ===== -->
 <h2 align="center">📂 Featured Repositories</h2>
 <div align="center">
-  <!-- Replace 'your-repo-name' with actual repositories once public -->
   <a href="https://github.com/Aayush-911">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-911&repo=VoltPark-Smart-Parking&theme=tokyonight&bg_color=0D1117&hide_border=true" width="45%" alt="Repo 1" />
   </a>
