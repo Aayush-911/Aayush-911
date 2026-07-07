@@ -6,43 +6,48 @@
 =======================================================================
 -->
 
-<div align="center">
-
-<!-- ===== CONTACT & IDENTITY HEADER ===== -->
-  <h1>AAYUSH BHATTI</h1>
-  <p>
-    <a href="mailto:bhattiaayush1109@gmail.com">
-      <img src="https://img.shields.io/badge/Email-bhattiaayush1109%40gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/aayush-bhatti-a65801367/">
-      <img src="https://img.shields.io/badge/LinkedIn-Aayush_Bhatti-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Aayush-911">
-      <img src="https://img.shields.io/badge/GitHub-Aayush--911-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF8C00?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Portfolio" />
-    </a>
-  </p>
-
 <!-- ===== HEADER BANNER ===== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=250&section=header&text=Welcome%20To%20My%20System&fontSize=60&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=55&descAlign=50&fontColor=FFFFFF&animation=fadeIn" alt="Header Banner" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=250&section=header&text=Aayush%20Bhatti&fontSize=70&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=55&descAlign=50&fontColor=FFFFFF&animation=fadeIn" alt="Header Banner" width="100%" />
+</div>
+
+<!-- ===== QUICK CONTACT & LINKS ===== -->
+<div align="center">
+  <a href="mailto:bhattiaayush1109@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhattiaayush1109%40gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/aayush-bhatti-a65801367/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aayush_Bhatti-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Aayush-911">
+    <img src="https://img.shields.io/badge/GitHub-Aayush--911-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF8C00?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+  </a>
+</div>
+
+<br>
 
 <!-- ===== TYPING ANIMATION ===== -->
-  <br><br>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=🚀+ECE+Student+%7C+Embedded+Systems+Developer;🔧+Passionate+About+Robotics+%26+IoT;⚡+Founder+of+Aayush+Tronics;💡+Building+Projects+That+Solve+Real+Problems;🌟+Dream.+Build.+Learn.+Repeat." alt="Typing SVG" />
-  <br><br>
+</div>
+
+<br>
 
 <!-- ===== PROFESSIONAL BADGES ===== -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Location-India-00C2FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0D1117" alt="India" />
-    <img src="https://img.shields.io/badge/Role-ECE_Student-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0D1117" alt="ECE Student" />
-    <img src="https://img.shields.io/badge/Brand-Aayush_Tronics-00FFAA?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Aayush Tronics" />
-  </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-India-00C2FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0D1117" alt="India" />
+  <img src="https://img.shields.io/badge/Role-ECE_Student-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0D1117" alt="ECE Student" />
+  <img src="https://img.shields.io/badge/Brand-Aayush_Tronics-00FFAA?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Aayush Tronics" />
+</div>
+
+<br>
 
 <!-- ===== RANDOM DEVELOPER QUOTE ===== -->
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-  
 </div>
 
 <br>
