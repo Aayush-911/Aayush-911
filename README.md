@@ -8,8 +8,27 @@
 
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C2FF,100:8A2BE2&amp;height=250&amp;section=header&amp;text=Aayush%20Bhatti&amp;fontSize=70&amp;fontAlignY=35&amp;desc=Electronics%20%26%20Communication%20Engineering%20Student&amp;descAlignY=55&amp;descAlign=50&amp;fontColor=FFFFFF&amp;animation=fadeIn" alt="Header Banner" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C2FF,100:8A2BE2&text=Aayush%20Bhatti&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20Student%20|%20Embedded%20Systems%20|%20AI%20|%20Robotics&descSize=20&descAlignY=60&animation=fadeIn"/>
+
+# 👋 Hello, I'm **Aayush Bhatti**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=🚀+ECE+Student;⚡+Founder+of+Aayush+Tronics;🤖+Embedded+Systems+Developer;💻+Python+%7C+C+%7C+C%2B%2B;📡+Arduino+%7C+ESP32+%7C+ATmega328P;🧠+Learning+AI+%26+Robotics;🌟+Dream.+Build.+Learn.+Repeat."/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Embedded%20Systems-00C2FF?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robotics-00FFAA?style=for-the-badge&logo=ros&logoColor=black"/>
+<img src="https://img.shields.io/badge/IoT-FF8C00?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Aayush-911&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
+
 </div>
+
+---
 
 <!-- ===== QUICK CONTACT & LINKS ===== -->
 <div align="center">
