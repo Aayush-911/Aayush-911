@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/Architect.gif" width="100%" alt="Banner"/>
+  <img src=".com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/Architect.gif" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aayush Bhatti</h1>
