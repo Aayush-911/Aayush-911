@@ -1,507 +1,154 @@
-<!--
-  =======================================================================
-   AAYUSH BHATTI — GITHUB PROFILE README
-   THEME: CYBERPUNK / NEON BLUE & PURPLE
-   BRAND: Aayushtronics
-  =======================================================================
-  ⚠️ Replace GITHUB_USERNAME and the social links (LinkedIn/Instagram/
-  YouTube/Portfolio) with your real ones before pushing.
--->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6A00FF,70:00C2FF,100:0D1117&height=230&section=header&text=AAYUSH%20BHATTI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%20%7C%20Robotics%20%7C%20Founder%20%40%20Aayushtronics&descAlignY=56&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=00C2FF,C77DFF&center=true&vCenter=true&width=680&lines=%3E+Booting+Aayushtronics_;%3E+Embedded+Systems+Engineer+in+the+making;%3E+ESP32+%2B+IoT+%2B+AI+%2B+Robotics;%3E+Learning+by+Building+Real+Projects;%3E+Turning+Circuits+into+Startups+%E2%9A%A1" alt="Typing SVG"/>
-
-<br/>
-
-<!-- ===== CONTACT & IDENTITY HEADER ===== -->
-<p>
-  <a href="mailto:bhattiaayush1109@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhattiaayush1109%40gmail.com-6A00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aayush-bhatti/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-Aayushtronics-6A00FF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-Follow-00C2FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
-  </a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/AnubhavChaturvedi-GitHub/AnubhavChaturvedi-GitHub/blob/main/Architect.gif" width="100%" alt="Banner"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=PROFILE+VIEWS&color=6A00FF&style=for-the-badge&labelColor=0D1117" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00C2FF&logo=github&labelColor=0D1117" alt="followers"/>
+<h1 align="center">Hi 👋, I'm Aayush Bhatti</h1>
 
-</div>
+<h3 align="center">
+B.Tech Electronics & Communication Engineering (ECE) Student | Embedded Systems Developer | IoT Enthusiast | Founder of Aayushtronics 🚀
+</h3>
 
-<br/>
-
-<!-- ===== TERMINAL-STYLE INTRO ===== -->
-<div align="center">
-
-```ansi
-[38;5;51m┌──────────────────────────────────────────────────────────┐[0m
-[38;5;51m│[0m [38;5;135mroot@aayushtronics[0m:~$ whoami                                [38;5;51m│[0m
-[38;5;51m│[0m [38;5;123mECE student • Embedded Systems Builder • Founder[0m           [38;5;51m│[0m
-[38;5;51m│[0m [38;5;135mroot@aayushtronics[0m:~$ cat mission.txt                       [38;5;51m│[0m
-[38;5;51m│[0m [38;5;123mBuild tech that solves real-world problems.[0m                [38;5;51m│[0m
-[38;5;51m│[0m [38;5;123mNot just an engineer — an entrepreneur.[0m                    [38;5;51m│[0m
-[38;5;51m└──────────────────────────────────────────────────────────┘[0m
-```
-
-</div>
-
-## ⚡ ABOUT ME
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/dxpressos/dxpressos/master/gifs/Coding.gif" alt="coding gif"/>
-
-- 🎓 **ECE student** from India — I believe in learning by *building*, not just reading
-- 🧬 I work across the full stack of a real product: **circuits → firmware → cloud → dashboard**
-- 🧠 The question I ask after learning anything new: *"Iska project kya bana sakta hoon?"*
-- 🏢 Founder of **[Aayushtronics](#)** — an educational platform + YouTube brand for Arduino, ESP32, IoT, Robotics, PCB Design & AI
-- 🎯 Goal isn't just "engineer" — it's **entrepreneur**, building products, not demos
-- 🌱 Currently going deep on **Edge AI / TinyML** — where embedded systems meets AI
-
-```yaml
-aayush:
-  role: "ECE Student → Embedded Systems Engineer → Founder"
-  currently_building: "Smart Parking System with Wireless EV Charging"
-  brand: "Aayushtronics"
-  stack: [C, C++, Python, JavaScript, Arduino, ESP32, Firebase]
-  mission: "Build technology products that solve real-world problems"
-  status: "🟣 Available for collabs, open-source & internships"
-```
-
-<br clear="right"/>
-
----
-
-## 🧩 FEATURED PROJECT
-
-<div align="center">
-
-### 🚗 Smart Parking System — with Wireless EV Charging
-*A production-grade IoT system, not a demo.*
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**⚙️ Hardware Layer**
-- ESP32 as the central controller
-- Ultrasonic sensors → live slot detection
-- RFID (EM18) → secure entry/exit auth
-- Servo motors + IR sensors → automated gates
-- Wireless EV charging + battery monitoring
-
-</td>
-<td width="50%" valign="top">
-
-**☁️ Software Layer**
-- Firebase realtime database & backend
-- Live web dashboard, live slot monitoring
-- Online booking + payment integration
-- Google Maps slot discovery
-- Admin panel with analytics
-- 🔜 AI-based demand prediction (planned)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-![ESP32](https://img.shields.io/badge/ESP32-6A00FF?style=flat-square&logo=espressif&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-00C2FF?style=flat-square&logo=firebase&logoColor=black)
-![RFID](https://img.shields.io/badge/RFID%20Auth-6A00FF?style=flat-square&logo=nfc&logoColor=white)
-![Dashboard](https://img.shields.io/badge/IoT%20Dashboard-00C2FF?style=flat-square&logo=grafana&logoColor=black)
-![Realtime](https://img.shields.io/badge/Realtime%20Systems-6A00FF?style=flat-square&logo=socketdotio&logoColor=white)
-
-</div>
-
-<details>
-<summary>📡 <b>Click to expand — System Architecture</b></summary>
-
-```
-┌──────────────┐      ┌───────────────┐      ┌──────────────────┐
-│   Sensors     │ ---> │     ESP32     │ ---> │     Firebase       │
-│ (Ultrasonic,  │      │  (Controller) │      │   (Realtime DB)    │
-│  RFID, IR)    │      │               │      │                    │
-└──────────────┘      └───────┬───────┘      └─────────┬──────────┘
-                                │                          │
-                      ┌─────────▼─────────┐    ┌───────────▼──────────┐
-                      │  Servo / Gate      │    │   Web Dashboard        │
-                      │  Actuation         │    │ (Booking + Payment)    │
-                      └────────────────────┘    └────────────────────────┘
-```
-
-</details>
-
----
-
-## 🏢 AAYUSHTRONICS — MY BRAND
-
-<div align="center">
-
-| 📘 LEARN | 🔧 BUILD | 🤖 AI-ASSISTED | 🎥 WATCH |
-|:---:|:---:|:---:|:---:|
-| Beginner → Advanced concepts | Circuit + wiring + PCB guides | Embedded-systems-trained AI tutor | Hinglish YouTube tutorials |
-| Datasheets & docs | Full source code + explanations | Code gen, debug & optimization | Hook-driven, engaging scripts |
-| Learning roadmaps | Debugging tips & common errors | Auto-generated wiring diagrams | Beginner to pro content |
-
-</div>
-
-<details>
-<summary>🚀 <b>Click to see the full platform vision</b></summary>
-
-<br/>
-
-- Interactive 3D wiring & circuit simulation
-- Project difficulty tags + required components + libraries
-- Skill-adaptive content (beginner / intermediate / advanced)
-- Built-in quizzes & project recommendations
-- Hardware store + community + documentation hub
-- A specialized AI Assistant trained only on Arduino, ESP32, embedded systems, IoT, electronics & PCB design
-
-</details>
-
----
-
-## 🛠️ TECH ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,arduino,git,github,linux,vscode,firebase,nodejs,threejs&theme=dark"/>
-
-<br/><br/>
-
-![ESP32](https://img.shields.io/badge/ESP32-6A00FF?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-00C2FF?style=flat-square&logo=stmicroelectronics&logoColor=black)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-6A00FF?style=flat-square&logo=platformio&logoColor=white)
-![TinyML](https://img.shields.io/badge/Edge%20AI%20%2F%20TinyML-00C2FF?style=flat-square&logo=tensorflow&logoColor=black)
-![PCB](https://img.shields.io/badge/PCB%20Design-6A00FF?style=flat-square&logo=kicad&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-00C2FF?style=flat-square&logo=probot&logoColor=black)
-
-</div>
-
----
-
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=C77DFF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=6A00FF&fire=00C2FF&currStreakLabel=00C2FF"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=c9d1d9" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=redical&hide_border=true&bg_color=0D1117&color=00C2FF&line=6A00FF&point=ffffff" width="95%"/>
-
-</div>
-
-<details>
-<summary>🏆 <b>Click to see GitHub Trophies</b></summary>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=radical&no-frame=true&column=7&margin-w=10"/>
-</div>
-
-</details>
-
-<div align="center">
-
-<!--
-  Snake animation needs a one-time GitHub Action in this repo:
-  https://github.com/Platane/snk — add the workflow once, then this renders live.
--->
-<img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
----
-
-## 🎯 ROADMAP
-
-- [x] Learn embedded systems fundamentals (Arduino, ESP32)
-- [x] Build Smart Parking System v1
-- [ ] Launch the Aayushtronics website (interactive learning platform)
-- [ ] Ship the Aayushtronics AI Assistant (embedded-systems tutor)
-- [ ] Grow Aayushtronics YouTube into a recognized education brand
-- [ ] Build & ship a hardware startup product
-- [ ] Become financially independent through technology
-
----
-
-<div align="center">
-
-### 💬 LET'S BUILD SOMETHING
-
-If you're into **IoT, embedded systems, robotics, or AI** — connect, open an issue, or contribute to any of my repos. Collaboration > competition.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6A00FF,70:00C2FF,100:0D1117&height=110&section=footer" width="100%"/>
-
-<i>"Learning by building real projects — one circuit, one line of code at a time."</i>
-
-</div><!--
-  =======================================================================
-   AAYUSH BHATTI — GITHUB PROFILE README
-   THEME: CYBERPUNK / NEON BLUE & PURPLE
-   BRAND: Aayushtronics
-  =======================================================================
-  ⚠️ Replace GITHUB_USERNAME and the social links (LinkedIn/Instagram/
-  YouTube/Portfolio) with your real ones before pushing.
--->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6A00FF,70:00C2FF,100:0D1117&height=230&section=header&text=AAYUSH%20BHATTI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%20%7C%20Robotics%20%7C%20Founder%20%40%20Aayushtronics&descAlignY=56&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=00C2FF,C77DFF&center=true&vCenter=true&width=680&lines=%3E+Booting+Aayushtronics_;%3E+Embedded+Systems+Engineer+in+the+making;%3E+ESP32+%2B+IoT+%2B+AI+%2B+Robotics;%3E+Learning+by+Building+Real+Projects;%3E+Turning+Circuits+into+Startups+%E2%9A%A1" alt="Typing SVG"/>
-
-<br/>
-
-<!-- ===== CONTACT & IDENTITY HEADER ===== -->
-<p>
-  <a href="mailto:bhattiaayush1109@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhattiaayush1109%40gmail.com-6A00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aayush-bhatti/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-Aayushtronics-6A00FF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-Follow-00C2FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
-  </a>
+<p align="center">
+Building innovative Embedded Systems, IoT Projects, AI-powered Learning Platforms, and Smart Automation Solutions.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=PROFILE+VIEWS&color=6A00FF&style=for-the-badge&labelColor=0D1117" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00C2FF&logo=github&labelColor=0D1117" alt="followers"/>
+---
 
-</div>
+## 👨‍💻 Who is Aayush Bhatti?
 
-<br/>
+I'm **Aayush Bhatti**, a B.Tech Electronics & Communication Engineering (ECE) student passionate about **Embedded Systems, IoT, Artificial Intelligence, Robotics, and Web Development**.
 
-<!-- ===== TERMINAL-STYLE INTRO ===== -->
-<div align="center">
+I'm the founder of **Aayushtronics**, an educational platform dedicated to helping beginners and developers learn Arduino, ESP32, IoT, Electronics, Programming, and AI through practical projects.
 
-```ansi
-[38;5;51m┌──────────────────────────────────────────────────────────┐[0m
-[38;5;51m│[0m [38;5;135mroot@aayushtronics[0m:~$ whoami                                [38;5;51m│[0m
-[38;5;51m│[0m [38;5;123mECE student • Embedded Systems Builder • Founder[0m           [38;5;51m│[0m
-[38;5;51m│[0m [38;5;135mroot@aayushtronics[0m:~$ cat mission.txt                       [38;5;51m│[0m
-[38;5;51m│[0m [38;5;123mBuild tech that solves real-world problems.[0m                [38;5;51m│[0m
-[38;5;51m│[0m [38;5;123mNot just an engineer — an entrepreneur.[0m                    [38;5;51m│[0m
-[38;5;51m└──────────────────────────────────────────────────────────┘[0m
-```
-
-</div>
-
-## ⚡ ABOUT ME
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/dxpressos/dxpressos/master/gifs/Coding.gif" alt="coding gif"/>
-
-- 🎓 **ECE student** from India — I believe in learning by *building*, not just reading
-- 🧬 I work across the full stack of a real product: **circuits → firmware → cloud → dashboard**
-- 🧠 The question I ask after learning anything new: *"Iska project kya bana sakta hoon?"*
-- 🏢 Founder of **[Aayushtronics](#)** — an educational platform + YouTube brand for Arduino, ESP32, IoT, Robotics, PCB Design & AI
-- 🎯 Goal isn't just "engineer" — it's **entrepreneur**, building products, not demos
-- 🌱 Currently going deep on **Edge AI / TinyML** — where embedded systems meets AI
-
-```yaml
-aayush:
-  role: "ECE Student → Embedded Systems Engineer → Founder"
-  currently_building: "Smart Parking System with Wireless EV Charging"
-  brand: "Aayushtronics"
-  stack: [C, C++, Python, JavaScript, Arduino, ESP32, Firebase]
-  mission: "Build technology products that solve real-world problems"
-  status: "🟣 Available for collabs, open-source & internships"
-```
-
-<br clear="right"/>
+I enjoy building real-world solutions that combine hardware and software, including smart parking systems, wireless EV charging, automation, AI agents, and embedded applications.
 
 ---
 
-## 🧩 FEATURED PROJECT
+## 🚀 Currently Working On
 
-<div align="center">
-
-### 🚗 Smart Parking System — with Wireless EV Charging
-*A production-grade IoT system, not a demo.*
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**⚙️ Hardware Layer**
-- ESP32 as the central controller
-- Ultrasonic sensors → live slot detection
-- RFID (EM18) → secure entry/exit auth
-- Servo motors + IR sensors → automated gates
-- Wireless EV charging + battery monitoring
-
-</td>
-<td width="50%" valign="top">
-
-**☁️ Software Layer**
-- Firebase realtime database & backend
-- Live web dashboard, live slot monitoring
-- Online booking + payment integration
-- Google Maps slot discovery
-- Admin panel with analytics
-- 🔜 AI-based demand prediction (planned)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-![ESP32](https://img.shields.io/badge/ESP32-6A00FF?style=flat-square&logo=espressif&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-00C2FF?style=flat-square&logo=firebase&logoColor=black)
-![RFID](https://img.shields.io/badge/RFID%20Auth-6A00FF?style=flat-square&logo=nfc&logoColor=white)
-![Dashboard](https://img.shields.io/badge/IoT%20Dashboard-00C2FF?style=flat-square&logo=grafana&logoColor=black)
-![Realtime](https://img.shields.io/badge/Realtime%20Systems-6A00FF?style=flat-square&logo=socketdotio&logoColor=white)
-
-</div>
-
-<details>
-<summary>📡 <b>Click to expand — System Architecture</b></summary>
-
-```
-┌──────────────┐      ┌───────────────┐      ┌──────────────────┐
-│   Sensors     │ ---> │     ESP32     │ ---> │     Firebase       │
-│ (Ultrasonic,  │      │  (Controller) │      │   (Realtime DB)    │
-│  RFID, IR)    │      │               │      │                    │
-└──────────────┘      └───────┬───────┘      └─────────┬──────────┘
-                                │                          │
-                      ┌─────────▼─────────┐    ┌───────────▼──────────┐
-                      │  Servo / Gate      │    │   Web Dashboard        │
-                      │  Actuation         │    │ (Booking + Payment)    │
-                      └────────────────────┘    └────────────────────────┘
-```
-
-</details>
+- 🤖 Aayushtronics AI Learning Platform
+- 🚗 Smart Parking & Wireless EV Charging System
+- 📡 ESP32 IoT Projects
+- 🔥 Arduino Programming Tutorials
+- 🌐 Full Stack Web Development
+- 🤖 AI Agents for Electronics Learning
 
 ---
 
-## 🏢 AAYUSHTRONICS — MY BRAND
+# 💻 Tech Stack
 
-<div align="center">
-
-| 📘 LEARN | 🔧 BUILD | 🤖 AI-ASSISTED | 🎥 WATCH |
-|:---:|:---:|:---:|:---:|
-| Beginner → Advanced concepts | Circuit + wiring + PCB guides | Embedded-systems-trained AI tutor | Hinglish YouTube tutorials |
-| Datasheets & docs | Full source code + explanations | Code gen, debug & optimization | Hook-driven, engaging scripts |
-| Learning roadmaps | Debugging tips & common errors | Auto-generated wiring diagrams | Beginner to pro content |
-
-</div>
-
-<details>
-<summary>🚀 <b>Click to see the full platform vision</b></summary>
-
-<br/>
-
-- Interactive 3D wiring & circuit simulation
-- Project difficulty tags + required components + libraries
-- Skill-adaptive content (beginner / intermediate / advanced)
-- Built-in quizzes & project recommendations
-- Hardware store + community + documentation hub
-- A specialized AI Assistant trained only on Arduino, ESP32, embedded systems, IoT, electronics & PCB design
-
-</details>
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
 
-## 🛠️ TECH ARSENAL
+### Embedded Systems
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,arduino,git,github,linux,vscode,firebase,nodejs,threejs&theme=dark"/>
-
-<br/><br/>
-
-![ESP32](https://img.shields.io/badge/ESP32-6A00FF?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-00C2FF?style=flat-square&logo=stmicroelectronics&logoColor=black)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-6A00FF?style=flat-square&logo=platformio&logoColor=white)
-![TinyML](https://img.shields.io/badge/Edge%20AI%20%2F%20TinyML-00C2FF?style=flat-square&logo=tensorflow&logoColor=black)
-![PCB](https://img.shields.io/badge/PCB%20Design-6A00FF?style=flat-square&logo=kicad&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-00C2FF?style=flat-square&logo=probot&logoColor=black)
-
-</div>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 ---
 
-## 📊 GITHUB STATS
+### IoT & Cloud
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=C77DFF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=6A00FF&fire=00C2FF&currStreakLabel=00C2FF"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=c9d1d9" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=redical&hide_border=true&bg_color=0D1117&color=00C2FF&line=6A00FF&point=ffffff" width="95%"/>
-
-</div>
-
-<details>
-<summary>🏆 <b>Click to see GitHub Trophies</b></summary>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=radical&no-frame=true&column=7&margin-w=10"/>
-</div>
-
-</details>
-
-<div align="center">
-
-<!--
-  Snake animation needs a one-time GitHub Action in this repo:
-  https://github.com/Platane/snk — add the workflow once, then this renders live.
--->
-<img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## 🎯 ROADMAP
+### Web Development
 
-- [x] Learn embedded systems fundamentals (Arduino, ESP32)
-- [x] Build Smart Parking System v1
-- [ ] Launch the Aayushtronics website (interactive learning platform)
-- [ ] Ship the Aayushtronics AI Assistant (embedded-systems tutor)
-- [ ] Grow Aayushtronics YouTube into a recognized education brand
-- [ ] Build & ship a hardware startup product
-- [ ] Become financially independent through technology
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-<div align="center">
+### Database
 
-### 💬 LET'S BUILD SOMETHING
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-If you're into **IoT, embedded systems, robotics, or AI** — connect, open an issue, or contribute to any of my repos. Collaboration > competition.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6A00FF,70:00C2FF,100:0D1117&height=110&section=footer" width="100%"/>
+### AI / ML
 
-<i>"Learning by building real projects — one circuit, one line of code at a time."</i>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-</div>
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Smart Parking Management System
+
+🔹 Wireless EV Charging System
+
+🔹 Aayushtronics AI Learning Platform
+
+🔹 ESP32 IoT Dashboard
+
+🔹 Arduino Learning Projects
+
+🔹 Embedded AI Applications
+
+---
+
+## 🌱 Currently Learning
+
+- Embedded AI
+- Edge Computing
+- Robotics
+- Computer Vision
+- IoT Security
+- Machine Learning
+- Advanced Embedded Systems
+
+---
+
+## 🎯 Goals
+
+✅ Build India's Best Electronics Learning Platform
+
+✅ Help Students Learn Embedded Systems
+
+✅ Create Innovative IoT Products
+
+✅ Contribute to Open Source
+
+✅ Become an Embedded Systems & AI Engineer
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn
+- 🌐 GitHub
+- 📺 YouTube (Aayushtronics)
+- 📧 Email
+
+---
+
+<h3 align="center">
+⭐ "Learning by Building Real Projects." ⭐
+</h3>
